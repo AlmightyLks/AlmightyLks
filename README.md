@@ -9,8 +9,9 @@ Skills: C# / [Node] JS
 - 🔭 I’m currently working on [EXILED](https://github.com/galaxy119/EXILED)-API Plugins 
 - 🤔 I’m looking for help with (ethically) making game modifications 
 
+![Profile views](https://gpvc.arturio.dev/AlmightyLks)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlmightyLks)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlmightyLks)    
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
@@ -18,4 +19,3 @@ Skills: C# / [Node] JS
 
 ![GitHub metrics](https://metrics.lecoq.io/AlmightyLks)  
 
-![Profile views](https://gpvc.arturio.dev/AlmightyLks)  
