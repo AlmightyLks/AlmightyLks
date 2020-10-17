@@ -10,6 +10,7 @@ Skills: C#
 
 - 🔭 I’m currently working on SCP Secret Laboratory Server Plugins using the [EXILED](https://github.com/galaxy119/EXILED)-API 
 - 🤔 I’m looking for help with making ethical game modifications  
+- 🌱 I’m currently learning refactoring and optimization of code bases
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -36,6 +37,28 @@ Skills: C#
 <a href="https://www.linux.org/" target="_blank">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
+
+#### Things I've touched before (Listed from more confident to less condfident):
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>  
+
+<a href="https://unity.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+</a>  
+
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>  
 
 </p>
 
