@@ -38,7 +38,7 @@ Skills: C#
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 
-#### Things I've touched before (Listed from more confident to less condfident):
+#### Things I've touched before (Listed from more confident to less confident):
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
