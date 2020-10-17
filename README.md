@@ -9,7 +9,7 @@ I've been using Linux as my main-OS for a long while, though I decided to swap b
 Skills: C# / [Node] JS 
 
 - 🔭 I’m currently working on [EXILED](https://github.com/galaxy119/EXILED)-API Plugins 
-- 🤔 I’m looking for help with (ethically) making game modifications 
+- 🤔 I’m looking for help with making ethical game modifications  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmightyLks&show_icons=true&count_private=true)  
 
