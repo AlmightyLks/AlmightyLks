@@ -6,7 +6,7 @@ I'm a C# backend developer who likes to try out many things, especially things r
 
 I've been using Linux as my main-OS for a long while, though I decided to swap back to windows due to comfortability.
 
-Skills: C# / [Node] JS 
+Skills: C#
 
 - 🔭 I’m currently working on SCP Secret Laboratory Server Plugins using the [EXILED](https://github.com/galaxy119/EXILED)-API 
 - 🤔 I’m looking for help with making ethical game modifications  
@@ -22,14 +22,6 @@ Skills: C# / [Node] JS
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>  
 
 #### Database:  
 <a href="https://www.mysql.com/" target="_blank">
