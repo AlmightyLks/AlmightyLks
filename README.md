@@ -10,7 +10,10 @@ Skills: C#
 
 - 🔭 I’m currently working on SCP Secret Laboratory Server Plugins using the [EXILED](https://github.com/galaxy119/EXILED)-API 
 - 🤔 I’m looking for help with making ethical game modifications  
-- 🌱 I’m currently learning refactoring and optimization of code bases
+- 🌱 I’m currently learning:
+  - Refactoring and optimization of code bases
+  - Socket programming
+  - P/Invoke
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
