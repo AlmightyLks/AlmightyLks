@@ -8,7 +8,7 @@ I've been using Linux as my main-OS for a long while, though I decided to swap b
 
 Skills: C#
 
-- 🔭 I’m currently working on SCP Secret Laboratory Server Plugins using the [EXILED](https://github.com/galaxy119/EXILED)-API 
+- 🔭 I’m currently working on SCP Secret Laboratory Server Plugins using the [Synapse](https://github.com/SynapseSL/Synapse/)-API 
 - 🤔 I’m looking for help with making ethical game modifications  
 - 🌱 I’m currently learning:
   - Refactoring and optimization of code bases
