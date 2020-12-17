@@ -12,8 +12,8 @@ Skills: C#
 - 🤔 I’m looking for help with making ethical game modifications  
 - 🌱 I’m currently learning:
   - Refactoring and optimization of code bases
-  - Socket programming
-  - P/Invoke
+  - Networking in programming
+  - EF Core
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
