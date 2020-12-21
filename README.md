@@ -12,7 +12,6 @@ Skills: C#
 - 🌱 I’m currently learning:
   - Refactoring and optimization of code bases
   - Networking in programming
-  - EF Core
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
