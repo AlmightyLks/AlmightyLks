@@ -12,6 +12,7 @@ Skills: C#
 - 🌱 I’m currently learning:
   - Refactoring and optimization of code bases
   - Networking in programming
+- 📖 I'm currently looking at Java
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
