@@ -64,6 +64,8 @@ Skills: C#
 
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmightyLks&show_icons=true)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmightyLks&show_icons=true&count_private=true)  
 
 <br><br>
