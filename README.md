@@ -19,47 +19,47 @@ Skills: C#
   
 #### Programming Languages & Frameworks / Runtimes:  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/csharp.svg" alt="csharp" width="40" height="40"/> 
 </a>
   
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/dot-net.svg" alt="dotnet" width="40" height="40"/>
 </a>
 
 #### Database:  
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/mysql.svg" alt="mysql" width="40" height="40"/>
 </a>  
 
 #### Additional:
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/git.svg" alt="git" width="40" height="40"/>
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/linux.svg" alt="linux" width="40" height="40"/>
 </a>
 
 #### Things I've touched before (Listed from more confident to less confident):
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/javascript.svg" alt="javascript" width="40" height="40"/>
 </a>
 
 <a href="https://nodejs.org" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/nodejs.svg" alt="nodejs" width="40" height="40"/>
 </a>  
 
 <a href="https://unity.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/unity3d.svg" alt="unity" width="40" height="40"/>
 </a>  
 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 
 <a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/c.svg" alt="c" width="40" height="40"/>
 </a>  
 
 </p>
