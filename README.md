@@ -21,9 +21,13 @@ Skills: C#
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
 <img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/csharp.svg" alt="csharp" width="40" height="40"/> 
 </a>
+
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/csharp.svg" alt="csharp" width="40" height="40"/> 
+</a>
   
-<a href="https://dotnet.microsoft.com/" target="_blank"> 
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/dot-net.svg" alt="dotnet" width="40" height="40"/>
+<a href="https://www.java.com/en/" target="_blank"> 
+<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/java.svg" alt="java" width="40" height="40"/>
 </a>
 
 #### Database:  
