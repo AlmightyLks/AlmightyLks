@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/AlmightyLks)  
 
-### Hi there 👋, I'm Lukas
+### [Hi there 👋, I'm Lukas](https://almightylks.github.io/Portfolio/)
 ## C# backend developer
 I'm a C# backend developer who likes to try out many things.
 
