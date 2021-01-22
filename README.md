@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Lukas
 ## C# backend developer
-I'm a C# backend developer who likes to try out many things, especially things regarding relatively low-level structures.
+I'm a C# backend developer who likes to try out many things.
 
 I've been using Linux as my main-OS for a long while, though I decided to swap back to windows due to comfortability.
 
