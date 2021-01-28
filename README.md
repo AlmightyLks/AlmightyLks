@@ -13,7 +13,6 @@ Skills: C#
   - Refactoring and optimization of code bases
   - Networking in programming
 - 💻 Projects ahead:
-  - Fixing EasyCommunication
   - Writing a Web API in 3 languages -> C#, Java & Node JS
 - 📖 I'm currently looking at Java
 
