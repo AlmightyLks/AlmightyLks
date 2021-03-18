@@ -10,9 +10,9 @@ I've been using Linux as my main-OS for a long while, though I decided to swap b
 - 🌱 I’m currently learning:
   - Refactoring and optimization of code bases
   - Networking in programming
-- 💻 Projects ahead:
-  - Writing a Web API in 3 languages -> C#, Java & Node JS
-- 📖 I'm currently looking at Java
+- 📖 I'm currently looking at:
+  - Writing small echo-servers in various network technologies
+  - Looking into modern ASP .NET Core in more depth
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
