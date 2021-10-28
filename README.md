@@ -4,8 +4,6 @@
 ## C# backend developer
 I'm a C# backend developer who likes to try out many things.
 
-I've been using Linux as my main-OS for a long while, though I decided to swap back to windows due to comfortability.
-
 - 🔭 I’m currently working on SCP Secret Laboratory Server Plugins using the [Synapse](https://github.com/SynapseSL/Synapse/)-API 
 
 <h3 align="left">Languages and Tools:</h3>
