@@ -1,4 +1,7 @@
-![Profile views](https://gpvc.arturio.dev/AlmightyLks)  
+![Profile views](https://gpvc.arturio.dev/AlmightyLks)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+[![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
+
 
 ### Hi there 👋, [This is Me](https://almightylks.github.io/Portfolio/)
 ## C# backend developer
