@@ -1,47 +1,94 @@
-![Profile views](https://gpvc.arturio.dev/AlmightyLks)
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-[![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
+<div align="center">
+  <a href="https://github.com/AlmightyLks" target="_blank">
+    <img src="https://gpvc.arturio.dev/AlmightyLks" alt="Profile views" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://stand-with-ukraine.pp.ua" target="_blank">
+    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://stand-with-ukraine.pp.ua" target="_blank">
+    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg" alt="Russian Warship Go Fuck Yourself" style="margin-bottom: 5px;" />
+  </a>
+</div>  
 
-
-### Hi there 👋, [This is Me](https://almightylks.github.io/Portfolio/)
-## C# backend developer
-I'm a C# backend developer who likes to try out many things.
-
-- 🔭 I’m currently working on SCP Secret Laboratory Server Plugins using the [Synapse](https://github.com/SynapseSL/Synapse/)-API 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-#### Programming Languages & Frameworks / Runtimes:  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/csharp.svg" alt="csharp" width="50" height="50"/> 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/AlmightyLks" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-  
-<a href="https://www.java.com/en/" target="_blank"> 
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/java.svg" alt="java" width="50" height="50"/>
-</a>
-  
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/mysql.svg" alt="mysql" width="50" height="50"/>
+<a href="https://www.youtube.com/@WholesomeDev" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+</div>  
+
+<br/> 
+
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/54688434/221389824-ea2bdbc2-e325-4717-a6d4-2ce6767a230a.gif" align="center" style="width: 100%" />
+</div>  
   
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/javascript.svg" alt="javascript" width="50" height="50"/>
-</a>
 
-<a href="https://nodejs.org" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/nodejs.svg" alt="nodejs" width="50" height="50"/>
-</a>  
+### <div align="center">I'm Lukas, a full-time C# Cloud developer 👨‍💻 programming since 2018 🚀</div>  
+  
 
-<a href="https://unity.com/" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/unity3d.svg" alt="unity" width="50" height="50"/>
-</a>  
+- 🔭 I’m currently not working on anything specifically  
+  
 
-#### Additional:
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/git.svg" alt="git" width="50" height="50"/>
-</a>
+- 🌱 I’m currently learning to take advantage of the Azure Cloud Infrastructure  
+  
 
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/linux.svg" alt="linux" width="50" height="50"/>
-</a>
+- ❓ Ask me about anything related to C# and .NET  
+  
+
+- ⚡ Fun fact: I prefer C# and .NET over anything else  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<div align="center">
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+</div>
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlmightyLks&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
