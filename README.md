@@ -1,33 +1,3 @@
-<div align="center">
-  <a href="https://github.com/AlmightyLks" target="_blank">
-    <img src="https://gpvc.arturio.dev/AlmightyLks" alt="Profile views" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://stand-with-ukraine.pp.ua" target="_blank">
-    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://stand-with-ukraine.pp.ua" target="_blank">
-    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg" alt="Russian Warship Go Fuck Yourself" style="margin-bottom: 5px;" />
-  </a>
-</div>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/AlmightyLks" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@WholesomeDev" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<br/> 
-
-<div align="center">
-
-  <img src="https://user-images.githubusercontent.com/54688434/221389824-ea2bdbc2-e325-4717-a6d4-2ce6767a230a.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Lukas, a full-time C# Cloud developer 👨‍💻 programming since 2018 🚀</div>  
   
 
